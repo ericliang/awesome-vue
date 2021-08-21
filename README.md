@@ -1120,7 +1120,8 @@
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
-- [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
+- [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD.
+- [美信拓扑IM Web版](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo).
 
 ### Interactive Experiences
 
